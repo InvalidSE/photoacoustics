@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=PA_Transmitter_3LD\PA_Transmitter_3LD.PrjPcb
+[Project2]
+ProjectPath=PA_Transmitter_1LD_ExtVoltage\PA_Transmitter_1LD_ExtVoltage.PrjPcb
+[Project3]
+ProjectPath=PA_Receiver\PA_Receiver.PrjPcb
+[Project4]
+ProjectPath=PA_Combined_RX_TX\PA_Combined_RX_TX.PrjPcb
