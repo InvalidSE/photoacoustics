@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\STM32F303CBT6\STM32F303CBT6.IntLib
+DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\STM32F303CBT6\STM32F303CBT6.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\UFL\UFL.IntLib
+DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\UFL\UFL.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\LASERDIODE-2_54\LASERDIODE-2.IntLib
+DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\LASERDIODE-2_54\LASERDIODE-2.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\BLM18AG102SN1D\BLM18AG102SN1D.IntLib
+DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\BLM18AG102SN1D\BLM18AG102SN1D.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\0805\0805.IntLib
+DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\0805\0805.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -186,7 +186,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\BAS5202\BAS5202.IntLib
+DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\BAS5202\BAS5202.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -203,7 +203,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\mTouch\Microchip mTouch.IntLib
+DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\mTouch\Microchip mTouch.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -220,7 +220,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\QTouch\Atmel QTouch.IntLib
+DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\QTouch\Atmel QTouch.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -237,7 +237,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\CapSense\Cypress CapSense.IntLib
+DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\CapSense\Cypress CapSense.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -254,7 +254,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document13]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\TSOT-23-5\TSOT-23-5.IntLib
+DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\TSOT-23-5\TSOT-23-5.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -271,7 +271,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\pin-header-1-pin\pin-header-1-pin.IntLib
+DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\pin-header-1-pin\pin-header-1-pin.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -288,7 +288,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document15]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\815-ASFL1-8-EK-T\815-ASFL1-8-EK-T.IntLib
+DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\815-ASFL1-8-EK-T\815-ASFL1-8-EK-T.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -305,7 +305,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document16]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\1206\1206.IntLib
+DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\1206\1206.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -322,7 +322,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document17]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\2512\2512.IntLib
+DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\2512\2512.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -339,7 +339,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document18]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\TO252\Components - 15.04.25 - 21.51.SchLib
+DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\TO252\Components - 15.04.25 - 21.51.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -356,7 +356,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LIPZNFJV
 
 [Document19]
-DocumentPath=..\..\..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\TO252\Components - 15.04.25 - 21.51.IntLib
+DocumentPath=..\..\..\..\..\..\Public\Documents\Altium\AD23\Library\ExportIntLib\TO252\Components - 15.04.25 - 21.51.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -648,139 +648,119 @@ OutputName1=PCAD Netlist
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixNetlist
-OutputName2=SIMetrix
+OutputType2=XSpiceNetlist
+OutputName2=XSpice Netlist
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=SIMPLISNetlist
-OutputName3=SIMPLIS
+OutputType3=CadnetixNetlist
+OutputName3=Cadnetix Netlist
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=XSpiceNetlist
-OutputName4=XSpice Netlist
+OutputType4=CalayNetlist
+OutputName4=Calay Netlist
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-OutputType5=CadnetixNetlist
-OutputName5=Cadnetix Netlist
+OutputType5=EDIF
+OutputName5=EDIF for PCB
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=CalayNetlist
-OutputName6=Calay Netlist
+OutputType6=EESofNetlist
+OutputName6=EESof Netlist
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=EDIF
-OutputName7=EDIF for PCB
+OutputType7=IntergraphNetlist
+OutputName7=Intergraph Netlist
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=EESofNetlist
-OutputName8=EESof Netlist
+OutputType8=MentorBoardStationNetlist
+OutputName8=Mentor BoardStation Netlist
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=IntergraphNetlist
-OutputName9=Intergraph Netlist
+OutputType9=MultiWire
+OutputName9=MultiWire
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=MentorBoardStationNetlist
-OutputName10=Mentor BoardStation Netlist
+OutputType10=OrCadPCB2Netlist
+OutputName10=Orcad/PCB2 Netlist
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=MultiWire
-OutputName11=MultiWire
+OutputType11=PADSNetlist
+OutputName11=PADS ASCII Netlist
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=OrCadPCB2Netlist
-OutputName12=Orcad/PCB2 Netlist
+OutputType12=Pcad
+OutputName12=Pcad for PCB
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=PADSNetlist
-OutputName13=PADS ASCII Netlist
+OutputType13=PCADnltNetlist
+OutputName13=PCADnlt Netlist
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
-OutputType14=Pcad
-OutputName14=Pcad for PCB
+OutputType14=Protel2Netlist
+OutputName14=Protel2 Netlist
 OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
-OutputType15=PCADnltNetlist
-OutputName15=PCADnlt Netlist
+OutputType15=ProtelNetlist
+OutputName15=Protel
 OutputDocumentPath15=
 OutputVariantName15=
 OutputDefault15=0
-OutputType16=Protel2Netlist
-OutputName16=Protel2 Netlist
+OutputType16=RacalNetlist
+OutputName16=Racal Netlist
 OutputDocumentPath16=
 OutputVariantName16=
 OutputDefault16=0
-OutputType17=ProtelNetlist
-OutputName17=Protel
+OutputType17=RINFNetlist
+OutputName17=RINF Netlist
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-OutputType18=RacalNetlist
-OutputName18=Racal Netlist
+OutputType18=SciCardsNetlist
+OutputName18=SciCards Netlist
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
-OutputType19=RINFNetlist
-OutputName19=RINF Netlist
+OutputType19=TangoNetlist
+OutputName19=Tango Netlist
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
-OutputType20=SciCardsNetlist
-OutputName20=SciCards Netlist
+OutputType20=TelesisNetlist
+OutputName20=Telesis Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=TangoNetlist
-OutputName21=Tango Netlist
+OutputType21=WireListNetlist
+OutputName21=WireList Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=TelesisNetlist
-OutputName22=Telesis Netlist
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=WireListNetlist
-OutputName23=WireList Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=HP LaserJet 2200 Series PCL 5 (觐镨 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=SIMPLISSimulation
-OutputName1=SIMPLIS
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=AdvSimNetlist
-OutputName3=Mixed Sim
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
-Configuration3_Name1=OutputConfigurationParameter1
-Configuration3_Item1=Record=AdvSimNetlistView|SheetsToNetlist=1|NetlistType=1|AnalysesDataSavedIndex=2|SimView_KeepLastSetup=True|SimViewSetup=KeepLastSetup|DC_Analysis=False|DC_PrimarySource= |DC_PrimaryStart=0|DC_PrimaryStop=0|DC_PrimaryStep=0|DC_EnableSecondary=False|DC_SecondarySource= |DC_SecondaryStart=0|DC_SecondaryStop=0|DC_SecondaryStep=0|AC_Analysis=False|AC_SweepType=LIN|AC_StartFrequency=1|AC_StopFrequency=1E6|AC_TestPoints=100|TRAN_Analysis=True|TRAN_AlwaysSetDefaults=True|TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle=50|TRAN_StartTime=0|TRAN_StopTime=5E-6|TRAN_StepTime=2E-8|TRAN_MaxStepTime=2E-8|TRAN_FourierFundFreq=1E6|TRAN_FourierNumHarmonics=10|TRAN_FourierAnalysis=False|TRAN_UseInitialConditions=False|TF_Analysis=False|TF_Source= |TF_Reference=0|PZ_Analysis=False|PZ_Node1= |PZ_Node2=0|PZ_Node3= |PZ_Node4=0|PZ_TfType=VOL|PZ_AnalType=PZ|Noise_Analysis=False|Noise_Source= |Noise_Output= |Noise_Reference=0|Noise_Start=0|Noise_Stop=0|Noise_TestPoints=0|Noise_PointsPerSummary=0|Noise_SweepType=LIN|Op_Analysis=True|ParamSweep_Analysis=False|ParamSweep_Parameter1= |ParamSweep_Start1=0|ParamSweep_Stop1=0|ParamSweep_Step1=0|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2= |ParamSweep_Start2=0|ParamSweep_Stop2=0|ParamSweep_Step2=0|ParamSweep_SweepType2=False|TempSweep_Analysis=False|TempSweep_Start=0|TempSweep_Stop=0|TempSweep_Step=0|MonteCarlo_Analysis=False|MonteCarlo_Seed=-1|MonteCarlo_DistributionType=UNIFORM|MonteCarlo_NumberOfRuns=5|MonteCarlo_ResistorTolerance=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DigitalTpTolerance=10%|OPTION_Method=Trapezoidal|OPTION_DVCC=5.000|OPTION_DVDD=15.00|OPTION_SpiceRefNode=GND
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=Record=AdvSimNetlistView|SheetsToNetlist=1|NetlistType=1|AnalysesDataSavedIndex=2|SimView_KeepLastSetup=True|SimViewSetup=KeepLastSetup|DC_Analysis=False|DC_PrimarySource= |DC_PrimaryStart=0|DC_PrimaryStop=0|DC_PrimaryStep=0|DC_EnableSecondary=False|DC_SecondarySource= |DC_SecondaryStart=0|DC_SecondaryStop=0|DC_SecondaryStep=0|AC_Analysis=False|AC_SweepType=LIN|AC_StartFrequency=1|AC_StopFrequency=1E6|AC_TestPoints=100|TRAN_Analysis=True|TRAN_AlwaysSetDefaults=True|TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle=50|TRAN_StartTime=0|TRAN_StopTime=5E-6|TRAN_StepTime=2E-8|TRAN_MaxStepTime=2E-8|TRAN_FourierFundFreq=1E6|TRAN_FourierNumHarmonics=10|TRAN_FourierAnalysis=False|TRAN_UseInitialConditions=False|TF_Analysis=False|TF_Source= |TF_Reference=0|PZ_Analysis=False|PZ_Node1= |PZ_Node2=0|PZ_Node3= |PZ_Node4=0|PZ_TfType=VOL|PZ_AnalType=PZ|Noise_Analysis=False|Noise_Source= |Noise_Output= |Noise_Reference=0|Noise_Start=0|Noise_Stop=0|Noise_TestPoints=0|Noise_PointsPerSummary=0|Noise_SweepType=LIN|Op_Analysis=True|ParamSweep_Analysis=False|ParamSweep_Parameter1= |ParamSweep_Start1=0|ParamSweep_Stop1=0|ParamSweep_Step1=0|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2= |ParamSweep_Start2=0|ParamSweep_Stop2=0|ParamSweep_Step2=0|ParamSweep_SweepType2=False|TempSweep_Analysis=False|TempSweep_Start=0|TempSweep_Stop=0|TempSweep_Step=0|MonteCarlo_Analysis=False|MonteCarlo_Seed=-1|MonteCarlo_DistributionType=UNIFORM|MonteCarlo_NumberOfRuns=5|MonteCarlo_ResistorTolerance=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DigitalTpTolerance=10%|OPTION_Method=Trapezoidal|OPTION_DVCC=5.000|OPTION_DVDD=15.00|OPTION_SpiceRefNode=GND
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1127,6 +1107,11 @@ OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=BOM_ReportManufacturing
+OutputName10=Manufacturing Data
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1413,6 +1398,16 @@ Type148=1
 Type149=1
 Type150=1
 Type151=1
+Type152=1
+Type153=1
+Type154=1
+Type155=1
+Type156=1
+Type157=1
+Type158=1
+Type159=1
+Type160=1
+Type161=1
 
 [Difference Levels]
 Type1=1
@@ -1497,6 +1492,12 @@ Type79=1
 Type80=1
 Type81=1
 Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1660,6 +1661,10 @@ Type158=0
 Type159=0
 Type160=0
 Type161=0
+Type162=1
+Type163=1
+Type164=1
+Type165=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
