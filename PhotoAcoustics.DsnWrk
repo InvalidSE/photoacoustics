@@ -8,3 +8,5 @@ ProjectPath=PA_Transmitter_1LD_ExtVoltage\PA_Transmitter_1LD_ExtVoltage.PrjPcb
 ProjectPath=PA_Receiver\PA_Receiver.PrjPcb
 [Project4]
 ProjectPath=PA_Combined_RX_TX\PA_Combined_RX_TX.PrjPcb
+[Project5]
+ProjectPath=..\ec209-2025-project-2025_team_20\PCB\EE209_T20\EE209_Prototype.PrjPcb
