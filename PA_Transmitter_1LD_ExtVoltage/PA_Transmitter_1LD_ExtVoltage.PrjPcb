@@ -372,6 +372,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document20]
+DocumentPath=..\PA_Combined_RX_TX\PA_Combined_RX_TX.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QHWFBHFX
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for TOF_rangefinder\Design Rule Check - PCB1.html
 DItemRevisionGUID=
