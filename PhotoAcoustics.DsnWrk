@@ -8,3 +8,5 @@ ProjectPath=PA_Transmitter_1LD_ExtVoltage\PA_Transmitter_1LD_ExtVoltage.PrjPcb
 ProjectPath=PA_Receiver\PA_Receiver.PrjPcb
 [Project4]
 ProjectPath=PA_Combined_RX_TX\PA_Combined_RX_TX.PrjPcb
+[Project5]
+ProjectPath=..\..\..\Downloads\TOF_rangefinder (28-04-2026 11-54-28)\talia\Dropbox\PhD\OpenTOFAll\OpenTOFLidar-develop-v2-2025.02\OpenTOFLidar-develop\PCB\PCB_3_LDs_2025.04.16_highP_v2\TOF_rangefinder.PrjPcb
